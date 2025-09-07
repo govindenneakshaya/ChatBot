@@ -61,8 +61,8 @@ if "chat_history" not in st.session_state:
 # -------------------------------
 # Title and Instructions
 # -------------------------------
-st.title("💬 Groq-Powered Chatbot")
-st.caption("Ask me anything. Powered by LLaMA 3 on Groq's ultra-fast inference engine.")
+st.title("Ask me anything ✌️")
+st.caption("I am a powerful Chatbot Created by Akshaya")
 
 # -------------------------------
 # Chat Container
